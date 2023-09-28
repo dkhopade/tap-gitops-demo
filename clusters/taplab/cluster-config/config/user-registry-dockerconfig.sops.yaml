@@ -1,0 +1,28 @@
+apiVersion: ENC[AES256_GCM,data:AgE=,iv:yNyh/lU74j/eq0xgrZpIixbBpehbllGXtrKCS15ixPQ=,tag:QoCZmwn/1/29QMMFEIrk7g==,type:str]
+kind: ENC[AES256_GCM,data:rz4Y25F6,iv:HW+qFCTkBhGzf6beVrT7GOUWR2UCqR0+z0y6pifqaDo=,tag:7dcJ92vSLufj4aMnRoN5VA==,type:str]
+metadata:
+    name: ENC[AES256_GCM,data:bIuW/DD/uPzH0fjatJQsxK4CIRMLnwJ2zQc=,iv:HyaNboMNUa6M0KK5KTk5RKbGlk0WaFQycAGq7OKR2e8=,tag:mLNFBC42S6e64RQFw3W+Ig==,type:str]
+    namespace: ENC[AES256_GCM,data:rEehmnozUj4kZAE=,iv:NkhQ5gOB7GB/EhgPP+Uh6dh+BxPV9j/I4HDA1aTwcWI=,tag:xKnL+kiCi2+X+CnJkzeAZw==,type:str]
+type: ENC[AES256_GCM,data:4BAiAM0n3TSdP86+w9cmUJiibg6Ei5qWssIivzdF,iv:JKTXdRZ/DW0bx3uCdrVM8c3njvYBK9Yq8MOvVhnnkkI=,tag:kpzY15LtFczvOcGdA8ByKw==,type:str]
+data:
+    .dockerconfigjson: ENC[AES256_GCM,data:X7WJr/PG72aeCvGjgdNb9lEn/Ykq8aANaAML9JYIksU4BaU/uRlBz6MkI8r1oCmxZDwRTF5GzUo/cg8/eyjLaqdOTiE4d9wHSoXI1Z1QESolqMTvRNyE5oUUvZl6JoWzlv06OlaXJwm+e0KKdq1oDyROWuA5CSp7R1rdqxNcTLYrHsQZjXXa8XlCsjHO7EsjrTcbMInp5cs=,iv:i3tmUnMqkIMI/lqQUnOU57uWWufILAONGBbw0zg7Scs=,tag:MBA20tclX+anEgrUy9IzhA==,type:str]
+sops:
+    kms: []
+    gcp_kms: []
+    azure_kv: []
+    hc_vault: []
+    age:
+        - recipient: age1reqgvwlucyn3dluvlu97a4srefsxhpvrjkznklxcd3t0jrp54vrsh3y6ve
+          enc: |
+            -----BEGIN AGE ENCRYPTED FILE-----
+            YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBDSEthTTZUNkpnVHViYjlS
+            NG1nVzhDT2NvdkxPR2F4RmUwdU9lWUtTWkNFCnQ1TG0wNGR0Wm1KQ3BJU2RyV09q
+            MUlPUWxkRFNoTFEra21YeVdsYWpVdm8KLS0tIEJmaGVZYVh2VGVxYWdoZXQ3NjFE
+            OEg4S1BaOWdkTnZiSDZsenBaMWtMM0EK9TJ8gmFiowL10xMMUrJsh+oIVnkp7eHw
+            kdHrNEFVBBM1HxWizRwXgR02lU15NlJir5eYVZQp2FJfqkIS3G/zJw==
+            -----END AGE ENCRYPTED FILE-----
+    lastmodified: "2023-09-28T15:43:14Z"
+    mac: ENC[AES256_GCM,data:VPWqCTzrJXMZbZdYr7Vm7mrxHyKU+OmRIs00ys8OhiNKqO96bHft5pC6Yas20mIVp6Umx7/axLUv9E/TW3rCvowbP+cqATwzqy1BP+obrML9L57JDp8NyywYnm/eEc8hilMaUbq2qyRa0uGfp8zmk/MSTJtnAJ4xCQZ9EQwB3Hg=,iv:NPpDNlK0zGyZ+/WCAiXdKfhtEyIy2hhylfWztXAlXKg=,tag:4YUJVD2FkSf/7CZRVWbsTw==,type:str]
+    pgp: []
+    unencrypted_suffix: _unencrypted
+    version: 3.7.3
