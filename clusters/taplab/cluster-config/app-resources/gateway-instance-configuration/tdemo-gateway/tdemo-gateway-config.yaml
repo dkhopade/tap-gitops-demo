@@ -16,16 +16,16 @@ spec:
       prometheus:
         enabled: true
   count: 1
-  host: tdemo.kubecorn.com
+  host: tdemo.h2o.kubecorn.com
   api:
-    serverUrl: https://tdemo.kubecorn.com
+    serverUrl: https://tdemo.h2o.kubecorn.com
     title: Tanzu Demo APIs
     description: Sample basic SCG + TAP Demos
     version: 0.0.1
     groupID: tanzu-demo
     cors:
       allowedOrigins:
-      - https://api-portal.kubecorn.com
+      - https://api-portal.h2o.kubecorn.com
       allowedMethods:
       - GET
       allowedHeaders:

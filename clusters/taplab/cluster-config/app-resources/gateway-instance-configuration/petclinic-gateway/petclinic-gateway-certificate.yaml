@@ -5,7 +5,7 @@ metadata:
   namespace: default
 spec:
   dnsNames:
-  - petclinic.kubecorn.com
+  - petclinic.h2o.kubecorn.com
   secretName: tapfynesycom
   issuerRef:
     name: letsencrypt-production

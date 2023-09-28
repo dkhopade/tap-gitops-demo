@@ -5,7 +5,7 @@ metadata:
   namespace: default
 spec:
   dnsNames:
-  - tdemo.kubecorn.com
+  - tdemo.h2o.kubecorn.com
   secretName: tapfynesycom
   issuerRef:
     name: letsencrypt-production
